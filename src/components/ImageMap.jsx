@@ -46,11 +46,11 @@ const imageMap = {
     45: '45-venado.jpg',
     46: '46-sol.jpg',
     47: '47-corona.jpg',
-    48: '48-la-chalupa.jpg',
+    48: '48-chalupa.jpg',
     49: '49-pino.jpg',
     50: '50-pescado.jpg',
-    51: '51-La-Palma.jpg',
-    52: '52-La-Maceta.jpg',
+    51: '51-palma.jpg',
+    52: '52-maceta.jpg',
     53: '53-arpa.jpg',
     54: '54-rana.jpg'
 };

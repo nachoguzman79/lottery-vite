@@ -1,20 +1,35 @@
-.container{
-    background-color: rgb(236, 118, 7);
-    padding: 12px;
-   
+.container {
+  padding: 12px;
 }
 
-ul{
-    list-style: none;
-    display: flex;
-    justify-content: center;
+ul {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0%;
 }
 
-li{
-    margin: 0 20px;
+li {
+  margin: 0 20px;
 }
 
-a{
-    text-decoration: none;
-    color: rgb(34, 34, 33);
+a {
+  margin-top: 30px;
+  text-decoration: none;
+  color: #fa3f3f; 
+  font-size: clamp(0.7rem, 4vw, 1.1rem);
+  padding: 10px 20px;
+  background-color: rgb(198, 235, 197);
+  border-radius: 10px;
+  cursor: pointer;
+  
+}
+a:hover {
+  background-color: rgb(198, 235, 197);
+  color: #fa3f3f; 
+  font-weight: 800;
+  border: 2px solid rgb(198, 235, 197);
+  box-shadow: 0 8px 16px rgba(0,0,0,0.2); 
+  
 }

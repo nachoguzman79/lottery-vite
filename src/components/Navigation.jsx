@@ -3,9 +3,9 @@ import "../styles/NavigationStyle.css";
 
 const Navigation = () => {
   const items = [
-    { name: "Home", to: "/", id: 1 },
-    { name: "AboutUs", to: "/about-us", id: 2 },
-    { name: "Contact", to: "/contact-us", id: 3 },
+    { name: "HOME", to: "/", id: 1 },
+    { name: "RULES", to: "/about-us", id: 2 },
+    
     
   ];
   return (
